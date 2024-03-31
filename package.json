@@ -1,0 +1,20 @@
+{
+  "name": "sofia_myprojecttemperatureconverter",
+  "version": "1.0.2",
+  "description": "temperature converter application",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sofia Asif",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17",
+    "sofia_myprojecttemperatureconverter": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
